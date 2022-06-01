@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/Parallelepiped.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/Parallelepipeds.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/ParallelepipedsDatabase.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/Rectangle.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/Rectangles.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/RectanglesDatabase.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/classes/Untiled.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
